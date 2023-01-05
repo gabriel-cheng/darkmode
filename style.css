@@ -42,7 +42,6 @@ body.dark {
     height: 22px;
     width: 22px;
     transform: translateX(0px);
-    transition: transform .2s linear;
 }
 #checkbox:checked + .label .ball {
     transform: translateX(24px);
